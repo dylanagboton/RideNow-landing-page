@@ -22,12 +22,6 @@
 - 🔍 **SEO-friendly** - Structure HTML sémantique
 - ♿ **Accessible** - Respect des standards d'accessibilité
 
-## 📸 Aperçu visuel
-
-![RideNow Landing Page](./src/assets/images/01.jpg)
-
-_Capture d'écran de la page d'accueil RideNow_
-
 ## 🚀 Instructions d'installation
 
 ### Prérequis
